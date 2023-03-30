@@ -15,4 +15,5 @@ Algorithm that, given an input, chooses the most common class out of the k neare
 •	n-layer Neural Networks: 
 Artificial network with an input layer, an output layer and atleast one hidden layer in between.
 Used library:
-https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg
+![image](https://user-images.githubusercontent.com/112813661/228873843-b4dc33d5-2fc0-41a8-b422-7a8ac4f17c2d.png)
+
