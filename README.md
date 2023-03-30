@@ -38,4 +38,4 @@ Google Colaboratory
 
 # Contributors
 
-https://github.com/Dyuti01
+https://github.com/Dyuti01/ml-bootcamp
