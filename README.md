@@ -31,8 +31,11 @@ Google Colaboratory
 
 
 
-
 # Used libraries:
 
 ![image](https://user-images.githubusercontent.com/112813661/228873843-b4dc33d5-2fc0-41a8-b422-7a8ac4f17c2d.png)
 
+
+# Contributors
+
+https://github.com/Dyuti01
