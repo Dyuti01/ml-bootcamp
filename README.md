@@ -38,15 +38,17 @@ Google Colaboratory
 ![image](https://user-images.githubusercontent.com/112813661/229074595-b66c2f54-6630-4f0b-90ff-f1421ddcf5b0.png)
 
 # About
-In this library the above features are implemented from scratch in python without use of any mchine learning library.
+---> In this library the above features are implemented from scratch in python without use of any mchine learning library.
 
-The library file created is ml_ai1.py
+---> The library file created is ml_ai1.py
 
-There are .ipynb files are for each algorithm for its training and testing
+---> There are .ipynb files are for each algorithm for its training and testing.
 
-In each of the .ipynb files, the ml_ai1.py file is used as library
+---> In each of the .ipynb files, the ml_ai1.py file is used as library.
 
-We can use those .ipynb files to train our data and to save the outputs in a .csv file.
+---> We can use those .ipynb files to train our data and to save the outputs in a .csv file.
+
+---> The outputs on test data are stored on the respective .csv files.
 
 # Contributors
 
